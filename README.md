@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains my C programming examination project, developed as part of my Bachelor's degree in Cybersecurity at Kristiania University of Applied Sciences.
+This repository contains my C programming project on Linux. 
 
 The project consists of multiple programming tasks covering fundamental and advanced C programming concepts, including mathematical algorithms, modular programming, file handling, multithreading, inter-process communication, encryption and network programming.
 
@@ -21,7 +21,7 @@ The primary objective was to develop practical programming skills and gain a dee
 
 ## Project Structure
 
-The examination project is organized into five main tasks.
+The project is organized into five main tasks.
 
 ### Task 2 – Mathematical Algorithms & Modular Programming
 
@@ -122,11 +122,9 @@ Understanding low-level programming is valuable in cybersecurity, particularly w
 
 This project strengthened my technical foundation in areas relevant to security engineering, vulnerability analysis, secure software development and network security.
 
-Bachelor's Student in Cybersecurity
-Kristiania University of Applied Sciences
 
 GitHub: [@Cybersuad](https://github.com/Cybersuad)
 
 ---
 
-*Academic examination project – 2026*
+*Academic project – 2026*
