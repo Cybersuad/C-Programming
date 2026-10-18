@@ -1,6 +1,6 @@
 # C Programming | Linux & Systems Programming
 
-**Academic Project | PG3401 – C Programming | 2026**
+**Academic Project | C Programming | 2026**
 
 ## Overview
 
